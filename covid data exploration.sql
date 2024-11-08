@@ -45,7 +45,8 @@ order by 1,2
 
 
 -- Countries with Highest Infection Rate
-select Location,population,max(total_cases) as HighestInfectionCount, max((total_cases)/population) * 100 as InfectionRate
+select Location,population,max(total_cases) as HighestInfectionCount, 
+max((total_cases)/population) * 100 as InfectionRate
 from Project1..CovidDeaths
 group by location, population
 order by InfectionRate desc
