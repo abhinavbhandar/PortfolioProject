@@ -45,7 +45,7 @@ This project analyzes global COVID-19 data, focusing on case trends, death rates
 
 ## Key SQL Queries
 
-### [SQL Query](https://github.com/abhinavbhandar/PortfolioProject/blob/main/covid%20data%20exploration.sql)
+**SQL Query:** [Link](https://github.com/abhinavbhandar/PortfolioProject/blob/main/covid%20data%20exploration.sql)
 - **Death Rate Analysis**: Calculates death rates as a percentage of total cases per country.
 - **Infection Rate by Population**: Determines which countries have the highest infection rates relative to their population.
 - **Vaccination Progression**: Monitors the cumulative vaccination numbers as a percentage of the population per country.
@@ -79,5 +79,9 @@ This analysis is complemented by an interactive Tableau dashboard, providing vis
 
 ## Conclusion
 This exploration provides a comprehensive view of the COVID-19 pandemic’s spread, mortality impact, and vaccination progress across different regions. By combining sophisticated SQL analysis with interactive Tableau visualizations, this project establishes a foundation for public health insights and data-driven decision-making.
+
+**Dataset** : [Link](https://github.com/abhinavbhandar/PortfolioProject/blob/main/covid-dataset.zip)
+
+**SQL Query:** [Link](https://github.com/abhinavbhandar/PortfolioProject/blob/main/covid%20data%20exploration.sql)
 
 **Dashboard Link**: [COVID-19 Trend Analysis on Tableau](https://public.tableau.com/app/profile/abhinav.bhandari/viz/Covid-19TrendAnalysis_17102244341810/Dashboard1?publish=yes)
