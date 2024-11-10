@@ -44,6 +44,8 @@ This project analyzes global COVID-19 data, focusing on case trends, death rates
 
 
 ## Key SQL Queries
+
+### [SQL Query](https://github.com/abhinavbhandar/PortfolioProject/blob/main/covid%20data%20exploration.sql)
 - **Death Rate Analysis**: Calculates death rates as a percentage of total cases per country.
 - **Infection Rate by Population**: Determines which countries have the highest infection rates relative to their population.
 - **Vaccination Progression**: Monitors the cumulative vaccination numbers as a percentage of the population per country.
